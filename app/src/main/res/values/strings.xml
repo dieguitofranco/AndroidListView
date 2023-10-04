@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AplicacionDispositivosMoviles</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="digite_nombre">digite su nombre</string>
+</resources>
